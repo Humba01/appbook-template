@@ -9,12 +9,39 @@
 		"better-comments.highlightPlainText": true,
 		"better-comments.tags": [
 			{
+				"tag": "[@Urgente]",
+				"color": "#770077",
+				"strikethrough": false,
+				"underline": false,
+				"backgroundColor": "transparent",
+				"bold": true,
+				"italic": false
+			},
+			{
 				"tag": "[@Importante]",
 				"color": "#FF2200",
 				"strikethrough": false,
 				"underline": false,
 				"backgroundColor": "transparent",
-				"bold": false,
+				"bold": true,
+				"italic": false
+			},
+			{
+				"tag": "[@Lembrete]",
+				"color": "#FF5522",
+				"strikethrough": false,
+				"underline": false,
+				"backgroundColor": "transparent",
+				"bold": true,
+				"italic": false
+			},
+			{
+				"tag": "[@Aviso]",
+				"color": "#FFCC22",
+				"strikethrough": false,
+				"underline": false,
+				"backgroundColor": "transparent",
+				"bold": true,
 				"italic": false
 			},
 
@@ -25,7 +52,13 @@
 			"activityBar.activeBorder": "#000000",
 			"activityBar.background": "#112233",
 			"editor.background": "#000011",
-			"titleBar.activeBackground": "#112233"
+			"titleBar.activeBackground": "#112233",
+			"titleBar.activeForeground": "#0077ff",
+			"titleBar.inactiveBackground": "#112233",
+			"titleBar.inactiveForeground": "#0099ff",
+			"statusBar.background": "#112233",
+			"statusBar.foreground": "#00ccff",
+			"statusBar.border": "#000000"
 
 		},
 		"editor.linkedEditing": true,

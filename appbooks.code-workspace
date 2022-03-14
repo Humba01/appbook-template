@@ -1,0 +1,48 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"better-comments.highlightPlainText": true,
+		"better-comments.tags": [
+			{
+				"tag": "[@Importante]",
+				"color": "#FF2200",
+				"strikethrough": false,
+				"underline": false,
+				"backgroundColor": "transparent",
+				"bold": false,
+				"italic": false
+			},
+
+		],
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#0077ff",
+			"activityBar.inactiveForeground": "#0099ff",
+			"activityBar.activeBorder": "#000000",
+			"activityBar.background": "#112233",
+			"editor.background": "#000011",
+			"titleBar.activeBackground": "#112233"
+
+		},
+		"editor.linkedEditing": true,
+		"editor.autoClosingBrackets": "always",
+		"editor.autoClosingQuotes": "always",
+		"editor.autoSurround": "brackets",
+		"editor.matchBrackets": "always",
+		"editor.minimap.enabled": false,
+		"editor.renderControlCharacters": true,
+		"editor.renderFinalNewline": true,
+		"editor.rulers": [
+			130
+		],
+		"editor.glyphMargin": true,
+		"editor.minimap.showSlider": "mouseover",
+		"editor.fontFamily": "Consolas, 'Courier New', monospace",
+		"editor.fontSize": 14,
+		"inline-bookmarks.view.showVisibleFilesOnly": false,
+	}
+}

@@ -77,5 +77,10 @@
 		"editor.fontFamily": "Consolas, 'Courier New', monospace",
 		"editor.fontSize": 14,
 		"inline-bookmarks.view.showVisibleFilesOnly": false,
+	},
+	"extensions": {
+		"recommendations": [
+			"tal7aouy.rainbow-bracket"
+		]
 	}
 }
